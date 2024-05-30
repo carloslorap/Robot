@@ -9,7 +9,7 @@ const Form = () => {
     const handleInputChange = (e) => { 
         const text = e.target.value;
         setvalueText(text); 
-      };
+      }; 
  
   return (
     <div>

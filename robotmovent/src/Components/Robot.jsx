@@ -8,7 +8,7 @@ const Robot = ({ value }) => {
   return (
     <Zoom top cascade>
       <div className="section_rot">
-        <div className="robot_img"> 
+        <div className="robot_img">  
           <img src={rot} /> 
         </div>
 
